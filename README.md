@@ -16,14 +16,14 @@ $ open https://github.com/ruslo/hunter
 ## Tutorial
 Установка переменных
 ```ShellSession
-$ export GITHUB_USERNAME=CrazyOverdose
+$ export GITHUB_USERNAME=hijadelaluuna
 $ alias gsed=sed      # for *-nix system
 ```
 Подготовка рабочего пространства
 ```ShellSession
 $ cd ${GITHUB_USERNAME}/workspace
 $ pushd .
-~/CrazyOverdose/workspace ~/CrazyOverdose/workspace
+~/hijadelaluuna/workspace ~/hijadelaluuna/workspace
 $ source scripts/activate
 ```
 Клонирование репозитория ЛР6 в ЛР7
