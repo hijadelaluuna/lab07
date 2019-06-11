@@ -1139,7 +1139,7 @@ Execute command: [
   `cmake`
 ]
 
-[/home/absinthetoxin/CrazyOverdose/workspace/projects/lab07]> "which" "cmake"
+[/home/luna/hijadelaluuna/workspace/projects/lab07]> "which" "cmake"
 
 /usr/bin/cmake
 Execute command: [
@@ -1217,7 +1217,7 @@ Test project /home/absinthetoxin/CrazyOverdose/workspace/projects/lab07/_builds/
 
 Total Test time (real) =   0.00 sec
 -
-Log saved: /home/absinthetoxin/CrazyOverdose/workspace/projects/lab07/_logs/polly/default/log.txt
+Log saved: /home/luna/hijadelaluuna/workspace/projects/lab07/_logs/polly/default/log.txt
 -
 Generate: 0:00:08.030286s
 Build: 0:00:03.176201s
